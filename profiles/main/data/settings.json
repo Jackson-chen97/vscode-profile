@@ -1,0 +1,3 @@
+{
+    "AI.toolcall.v2.command.allowList": "[\"npm\",\"mvn\",\".\\\\mvnw.cmd\"]"
+}
