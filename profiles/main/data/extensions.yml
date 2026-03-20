@@ -28,6 +28,18 @@ enabled:
     uuid: 15305aca-2588-4ca0-8147-ab2c64730b82
   - id: redhat.java
     uuid: 198a707e-28af-4e84-8610-6e2f628dd12d
+  - id: uni-helper.uni-app-schemas-vscode
+    uuid: 680a5b95-3535-46c9-93ef-8e60c91429e1
+  - id: uni-helper.uni-app-snippets-vscode
+    uuid: c0c7fabd-f1d6-49ea-bd3e-8f9af4110d09
+  - id: uni-helper.uni-cloud-snippets-vscode
+    uuid: 6b52fd58-5221-4fb1-8b81-071b223d384d
+  - id: uni-helper.uni-helper-vscode
+    uuid: a6de9091-ee23-40f7-b60c-2f438ae31a34
+  - id: uni-helper.uni-highlight-vscode
+    uuid: c45c61f0-e4aa-420d-88b7-9bc5608f8685
+  - id: uni-helper.uni-ui-snippets-vscode
+    uuid: 6f9f543e-8b25-4c87-b4d5-e269edb2bf2c
   - id: vmware.vscode-boot-dev-pack
     uuid: 26069f6b-56ea-4c29-8e28-371698a60020
   - id: vmware.vscode-spring-boot
@@ -48,5 +60,7 @@ enabled:
     uuid: 27fc0e8e-1341-4f52-9219-4e0f81590937
   - id: vscjava.vscode-spring-initializr
     uuid: a205ad34-542b-4c67-a9ed-f645103ad9c0
+  - id: Vue.volar
+    uuid: a95ee795-1576-4ffa-acda-8d6e6a95c584
   - id: zokugun.cron-tasks
     uuid: b7bbbbd5-7a39-4312-87aa-ef6a41de67fb
